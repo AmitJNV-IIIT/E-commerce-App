@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="show_all_rec" type="id" />
+    <item name="ad_address_btn" type="id" />
+</resources>

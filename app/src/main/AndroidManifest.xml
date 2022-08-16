@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ecommerceapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="ECommerceApp"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ECommerceApp">
+        <activity
+            android:name=".activites.PlaceOrderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activites.SearchProductsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activites.PaymentActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activites.AddAddressActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activites.AddressActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activites.CartActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activites.ShowAllActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activites.DetailedActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activites.OnBoardingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activites.RegistrationActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activites.LoginActivity" />
+        <activity android:name=".activites.MainActivity" />
+        <activity android:name=".activities.PaymentActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+        <meta-data
+            android:name="com.razorpay.ApiKey"
+            android:value="rzp_test_gyWiJnU56kYhuz" />
+    </application>
+
+</manifest>

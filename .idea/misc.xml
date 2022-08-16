@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable/Copy of account.xml" value="0.124" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable/Copy of ic_baseline_arrow_forward_ios_24.xml" value="0.124" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable/btn_bg_detailed.xml" value="0.124" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable/edit_text_bg.xml" value="0.2265" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_add_address.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_address.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_detailed.xml" value="0.1" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_on_boarding.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_payment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_place_order.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_registration.xml" value="0.2" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_registration2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_search_products.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_show_all.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/address_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/category_list.xml" value="1.072674418604651" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/my_cart_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/new_products.xml" value="0.16" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/popular_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/show_all_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/sliding_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/ECommerceApp/app/src/main/res/menu/main_menu.xml" value="0.128" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
